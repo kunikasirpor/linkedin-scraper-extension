@@ -34,6 +34,8 @@ This Chrome Extension automatically scrapes LinkedIn profile information (like n
 Light Mode  
 ![Light Mode](./assets/ui-light.png)
 
+---
+
 Dark Mode  
 ![Dark Mode](./assets/ui-dark.png)
 
