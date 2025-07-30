@@ -1,4 +1,4 @@
-# 🔗 LinkedIn Scraper Chrome Extension
+# LinkedIn Scraper Chrome Extension
 
 This Chrome Extension automatically scrapes LinkedIn profile information (like name, bio, location, followers, and connection count) from a list of LinkedIn profile URLs and sends the data to a Node.js + Express backend.
 
@@ -27,7 +27,7 @@ This Chrome Extension automatically scrapes LinkedIn profile information (like n
 - **CSS (custom animations & transitions)**
 
 ---
-## 📸 Screenshots
+## Screenshots
 
 ### 🔹 LinkedIn Scraper UI
 
