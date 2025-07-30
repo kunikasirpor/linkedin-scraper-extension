@@ -13,7 +13,7 @@ This Chrome Extension automatically scrapes LinkedIn profile information (like n
   - Profile URL
 - Sends scraped data to your backend via POST request
 - Beautiful UI with light/dark mode toggle
-- Typewriter animation and stylish transition effects
+- Stylish transition effects
 - Manual "Fetch Details" trigger
 
 ---
