@@ -27,6 +27,31 @@ This Chrome Extension automatically scrapes LinkedIn profile information (like n
 - **CSS (custom animations & transitions)**
 
 ---
+## 📸 Screenshots
+
+### 🔹 LinkedIn Scraper UI
+
+Light Mode  
+![Light Mode](./assets/ui-light.png)
+
+Dark Mode  
+![Dark Mode](./assets/ui-dark.png)
+
+---
+
+### 🔹 Database Preview  
+Fetched details successfully stored in MySQL database.
+
+![Database Preview](./assets/db-preview.png)
+
+---
+
+### 🔹 Terminal Output  
+Console showing successful execution and data transmission.
+
+![Terminal Output](./assets/terminal-output.png)
+
+---
 
 ## How to Use
 
