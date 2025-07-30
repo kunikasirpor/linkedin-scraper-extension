@@ -21,9 +21,9 @@ This Chrome Extension automatically scrapes LinkedIn profile information (like n
 ## 🛠Technologies Used
 
 - **Chrome Extension (Manifest v3)**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
 - **Node.js + Express + Sequelize (Backend)**
-- **PostgreSQL / SQL Database**
+- **MYSQL Database**
 - **CSS (custom animations & transitions)**
 
 ---
